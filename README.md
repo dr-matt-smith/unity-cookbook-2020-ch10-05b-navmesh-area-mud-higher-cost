@@ -1,0 +1,1 @@
+# unity-cookbook-2020-ch10-05b-navmesh-area-mud-higher-cost
